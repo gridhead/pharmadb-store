@@ -1,5 +1,5 @@
 # PharmaDBStore
-An user friendly pharmaceutical store GUI.
+An user friendly GUI for pharmaceutical purchases for PharmaDB.
 
 # See [PharmaDBClient](https://github.com/t0xic0der/PharmaDBClient) first.
 
